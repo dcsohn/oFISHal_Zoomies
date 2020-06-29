@@ -15,7 +15,11 @@ GameObject:
   - component: {fileID: 4700554548295872612}
   - component: {fileID: 5406009535195769753}
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   - component: {fileID: 4152256617478468624}
+=======
+  - component: {fileID: 6179132667678906635}
+>>>>>>> Stashed changes
 =======
   - component: {fileID: 6179132667678906635}
 >>>>>>> Stashed changes
@@ -182,8 +186,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   opacity: 0.5
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 --- !u!82 &4152256617478468624
 AudioSource:
+=======
+--- !u!114 &6179132667678906635
+MonoBehaviour:
+>>>>>>> Stashed changes
 =======
 --- !u!114 &6179132667678906635
 MonoBehaviour:
@@ -194,6 +203,7 @@ MonoBehaviour:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 558615793788385257}
   m_Enabled: 1
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
@@ -284,6 +294,8 @@ MonoBehaviour:
     m_PostInfinity: 2
     m_RotationOrder: 4
 =======
+=======
+>>>>>>> Stashed changes
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: cf1af002e64c4425787889fc10f4a502, type: 3}
   m_Name: 
@@ -292,4 +304,7 @@ MonoBehaviour:
   Min: 3
   Max: 7
   space: 5
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
